@@ -1,0 +1,1461 @@
+{"project_name": "idsai_2024_paleographic_binary_multilabels", "create_date": "2024-05-16T09:29:36Z", "export_format_version": "1.1", "export_date": "2024-05-19T11:19:21Z", "label_classes": [], "keypoint_schemas": [], "tag_groups": [{
+"group_id": "9eb12a65-e860-43df-b828-e8c95894aa06",
+"group_name": "Default",
+"group_type": "MULTIPLE-SELECTION",
+"tags": [
+"fish_tail",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch",
+"nikud",
+"left_justify",
+"nesting",
+"left_slanted",
+"bited_aleph"
+]
+}], "images": [{
+"image_id": "fa4e5a0e-decd-4af4-9e17-0ddc86338b14",
+"image_name": "000_000_00.jpeg",
+"dataset_name": "Default",
+"width": 353,
+"height": 1334,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"left_slanted",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"left_slanted",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "cdf6749a-2b51-4407-8aa3-4c34fc7a5be0",
+"image_name": "001_000_00.jpeg",
+"dataset_name": "Default",
+"width": 587,
+"height": 1525,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender"
+]
+},
+"labels": []
+}, {
+"image_id": "6156f494-bb19-4081-8c2c-3e1dc78b0aa7",
+"image_name": "002_000_00.jpeg",
+"dataset_name": "Default",
+"width": 586,
+"height": 1932,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"nikud",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"nikud",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "7b358681-acde-4bf8-bae2-2066c5249e53",
+"image_name": "003_000_00.jpeg",
+"dataset_name": "Default",
+"width": 374,
+"height": 1727,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_slanted",
+"nesting",
+"nikud",
+"shading",
+"short_descender",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_slanted",
+"nesting",
+"nikud",
+"shading",
+"short_descender",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "0a0a3a98-0bc6-4bed-8d85-d577aecc6e27",
+"image_name": "004_000_00.jpeg",
+"dataset_name": "Default",
+"width": 554,
+"height": 2357,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"nesting",
+"nikud",
+"shading",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"nesting",
+"nikud",
+"shading",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "32a65d0b-a17f-4fc1-ab1d-490224bde77e",
+"image_name": "005_000_00.jpeg",
+"dataset_name": "Default",
+"width": 642,
+"height": 895,
+"image_status": "DONE",
+"tags": [
+"left_justify",
+"nesting",
+"short_descender",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"left_justify",
+"nesting",
+"short_descender",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "f049d79f-5c13-43a2-b7d0-5cc3e65576e5",
+"image_name": "006_000_00.jpeg",
+"dataset_name": "Default",
+"width": 572,
+"height": 1642,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nesting",
+"nikud",
+"shading",
+"short_descender",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nesting",
+"nikud",
+"shading",
+"short_descender",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "581189ba-836e-4186-a757-66003dedb6de",
+"image_name": "007_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1274,
+"height": 2055,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_slanted",
+"nesting",
+"short_descender",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_slanted",
+"nesting",
+"short_descender",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "adf087a0-bc04-49ca-9242-bc46465c6996",
+"image_name": "008_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1443,
+"height": 2174,
+"image_status": "DONE",
+"tags": [
+"nikud",
+"short_descender"
+],
+"tag_groups": {
+"Default": [
+"nikud",
+"short_descender"
+]
+},
+"labels": []
+}, {
+"image_id": "59b977eb-ef5f-4a2e-bb0a-10089985d26f",
+"image_name": "009_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1153,
+"height": 1720,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "0f2b1cfa-2dbe-42f5-8e22-257de81df58b",
+"image_name": "010_000_00.jpeg",
+"dataset_name": "Default",
+"width": 759,
+"height": 1510,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_slanted",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_slanted",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "6550d5bd-fde1-4820-809e-98e0d95b64a1",
+"image_name": "011_000_00.jpeg",
+"dataset_name": "Default",
+"width": 868,
+"height": 1451,
+"image_status": "DONE",
+"tags": [
+"left_justify",
+"nikud",
+"short_descender",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"left_justify",
+"nikud",
+"short_descender",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "ca04d3e4-aa63-4323-bfeb-cf6ab7d3c25a",
+"image_name": "012_000_00.jpeg",
+"dataset_name": "Default",
+"width": 389,
+"height": 2367,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "9fbf90d4-2961-4356-9553-76f75bc5c5d8",
+"image_name": "013_000_00.jpeg",
+"dataset_name": "Default",
+"width": 993,
+"height": 1614,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"nesting",
+"nikud",
+"short_descender"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"nesting",
+"nikud",
+"short_descender"
+]
+},
+"labels": []
+}, {
+"image_id": "e649f891-5940-4e0d-95cf-acdf52bc4589",
+"image_name": "014_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1012,
+"height": 2132,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nesting",
+"nikud",
+"shading",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nesting",
+"nikud",
+"shading",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "6698e344-f7c2-4810-b2f0-525d79766a1c",
+"image_name": "015_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1261,
+"height": 1636,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_slanted",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_slanted",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "277e200f-2fc3-44d8-ad66-c8e2e3eb9de7",
+"image_name": "016_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1128,
+"height": 1551,
+"image_status": "DONE",
+"tags": [
+"left_justify",
+"nesting",
+"nikud",
+"shading",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"left_justify",
+"nesting",
+"nikud",
+"shading",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "1a40f19d-ff1c-4e38-9888-06531d0e6c7b",
+"image_name": "017_000_00.jpeg",
+"dataset_name": "Default",
+"width": 484,
+"height": 2284,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "17f35dcd-4277-4854-8b43-6e7440641e53",
+"image_name": "018_000_00.jpeg",
+"dataset_name": "Default",
+"width": 541,
+"height": 2300,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"nikud",
+"short_descender",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"nikud",
+"short_descender",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "c5247c83-8a9f-48c2-96fa-9ea607f2e30a",
+"image_name": "019_000_00.jpeg",
+"dataset_name": "Default",
+"width": 534,
+"height": 1603,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"short_descender",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"short_descender",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "411af8a4-0a3f-4e44-b77c-ed228e92f054",
+"image_name": "020_000_00.jpeg",
+"dataset_name": "Default",
+"width": 991,
+"height": 1842,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"nikud",
+"shading",
+"short_descender"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"nikud",
+"shading",
+"short_descender"
+]
+},
+"labels": []
+}, {
+"image_id": "ec3d4f33-f5bf-4cd1-97c3-c212e234cea7",
+"image_name": "021_000_00.jpeg",
+"dataset_name": "Default",
+"width": 869,
+"height": 1346,
+"image_status": "DONE",
+"tags": [
+"nikud",
+"shading",
+"short_descender",
+"string"
+],
+"tag_groups": {
+"Default": [
+"nikud",
+"shading",
+"short_descender",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "c52f44db-c6db-4c45-b749-f763f9964876",
+"image_name": "022_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1397,
+"height": 1808,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_slanted",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_slanted",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "335f4649-6a82-42d8-81a1-cec9719d6fd5",
+"image_name": "023_000_00.jpeg",
+"dataset_name": "Default",
+"width": 723,
+"height": 1818,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "79d83e8d-eba8-4ab9-bc1a-9c4ef46b20a6",
+"image_name": "024_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1332,
+"height": 1835,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_slanted",
+"nesting",
+"nikud",
+"shading",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_slanted",
+"nesting",
+"nikud",
+"shading",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "493f7d09-494e-4993-b1e0-1ea980a6f12f",
+"image_name": "025_000_00.jpeg",
+"dataset_name": "Default",
+"width": 497,
+"height": 1976,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender"
+]
+},
+"labels": []
+}, {
+"image_id": "d735f96b-a1e5-45ff-87a1-4492a779d3ab",
+"image_name": "026_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1211,
+"height": 1109,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "a63e3cc6-5dd0-4270-abec-cd3095a52488",
+"image_name": "027_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1437,
+"height": 1832,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"nikud",
+"shading",
+"short_descender"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"nikud",
+"shading",
+"short_descender"
+]
+},
+"labels": []
+}, {
+"image_id": "fa90a9b7-0743-4111-961d-e5de8aac904d",
+"image_name": "028_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1475,
+"height": 2213,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"left_slanted",
+"nesting",
+"nikud",
+"shading",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"left_slanted",
+"nesting",
+"nikud",
+"shading",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "cd19479f-af41-4138-af8e-0cd72c8a7d7b",
+"image_name": "029_000_00.jpeg",
+"dataset_name": "Default",
+"width": 469,
+"height": 1990,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"left_slanted",
+"nesting",
+"nikud",
+"short_descender",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"left_slanted",
+"nesting",
+"nikud",
+"short_descender",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "98a9ec4e-5357-432a-8e32-2da1ce4d7e09",
+"image_name": "030_000_00.jpeg",
+"dataset_name": "Default",
+"width": 991,
+"height": 3458,
+"image_status": "DONE",
+"tags": [
+"nesting",
+"shading",
+"short_descender"
+],
+"tag_groups": {
+"Default": [
+"nesting",
+"shading",
+"short_descender"
+]
+},
+"labels": []
+}, {
+"image_id": "fd92e808-0031-4cd9-a278-82c0594fedb0",
+"image_name": "031_000_00.jpeg",
+"dataset_name": "Default",
+"width": 861,
+"height": 2466,
+"image_status": "DONE",
+"tags": [
+"bited_aleph",
+"nesting",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"bited_aleph",
+"nesting",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "b65746ac-0b05-475a-9231-0b0a2db57a18",
+"image_name": "032_000_00.jpeg",
+"dataset_name": "Default",
+"width": 658,
+"height": 1864,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"left_slanted",
+"nesting",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"left_slanted",
+"nesting",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "cd96b39b-6ee3-4d70-94b2-b996291949cb",
+"image_name": "033_000_00.jpeg",
+"dataset_name": "Default",
+"width": 583,
+"height": 2522,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"nesting",
+"nikud",
+"shading",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"nesting",
+"nikud",
+"shading",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "bd52fbbf-7856-4a5f-938b-a4865d443fb5",
+"image_name": "034_000_00.jpeg",
+"dataset_name": "Default",
+"width": 475,
+"height": 2230,
+"image_status": "DONE",
+"tags": [
+"left_justify",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"left_justify",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "8e56b3e6-cc41-4d1f-bb62-a09bb1af3e43",
+"image_name": "035_000_00.jpeg",
+"dataset_name": "Default",
+"width": 479,
+"height": 1988,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"nesting",
+"nikud",
+"short_descender",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"nesting",
+"nikud",
+"short_descender",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "81b4c8d3-46c1-4813-a73c-1a1257d15e59",
+"image_name": "036_000_00.jpeg",
+"dataset_name": "Default",
+"width": 872,
+"height": 3288,
+"image_status": "DONE",
+"tags": [
+"left_justify",
+"nesting",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"left_justify",
+"nesting",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "5251f39b-355b-4ce4-8aa8-c21842b42ee4",
+"image_name": "037_000_00.jpeg",
+"dataset_name": "Default",
+"width": 843,
+"height": 2700,
+"image_status": "DONE",
+"tags": [
+"left_justify",
+"nesting",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"left_justify",
+"nesting",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "2c5e63ee-8a5c-4be1-80aa-7e2b84692fa9",
+"image_name": "038_000_00.jpeg",
+"dataset_name": "Default",
+"width": 928,
+"height": 3102,
+"image_status": "DONE",
+"tags": [
+"left_justify",
+"left_slanted",
+"nesting",
+"shading",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"left_justify",
+"left_slanted",
+"nesting",
+"shading",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "194fe2d1-0c86-49e7-b562-fc3b68e662ef",
+"image_name": "039_000_00.jpeg",
+"dataset_name": "Default",
+"width": 520,
+"height": 1997,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"short_descender"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"short_descender"
+]
+},
+"labels": []
+}, {
+"image_id": "d2a2ca35-c438-4562-a5bf-845e1a41cfe1",
+"image_name": "040_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1265,
+"height": 1979,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_slanted",
+"nesting",
+"shading",
+"short_descender"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_slanted",
+"nesting",
+"shading",
+"short_descender"
+]
+},
+"labels": []
+}, {
+"image_id": "022e37a1-d3cc-4954-ae7a-493a08bb3718",
+"image_name": "041_000_00.jpeg",
+"dataset_name": "Default",
+"width": 988,
+"height": 1328,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"nikud",
+"short_descender",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"nikud",
+"short_descender",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "da2cc028-7f56-42c0-ba22-2de5a0eaed85",
+"image_name": "042_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1202,
+"height": 2150,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_slanted",
+"nesting",
+"nikud",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_slanted",
+"nesting",
+"nikud",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "4718cada-117f-4744-9cb8-f7f54c2fa9fd",
+"image_name": "043_000_00.jpeg",
+"dataset_name": "Default",
+"width": 698,
+"height": 2496,
+"image_status": "DONE",
+"tags": [
+"left_justify",
+"nesting",
+"nikud",
+"short_descender",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"left_justify",
+"nesting",
+"nikud",
+"short_descender",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "61167617-7e5f-4c4f-a959-65e89e6a01b3",
+"image_name": "044_000_00.jpeg",
+"dataset_name": "Default",
+"width": 700,
+"height": 1819,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "082733b3-a0ca-429b-b173-f483c3018704",
+"image_name": "045_000_00.jpeg",
+"dataset_name": "Default",
+"width": 591,
+"height": 1774,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "e2dc8007-e949-4f17-99f3-0d052678ef00",
+"image_name": "046_000_00.jpeg",
+"dataset_name": "Default",
+"width": 544,
+"height": 1622,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "5c7b372c-703a-4a67-b7f4-f27ed5bb001d",
+"image_name": "047_000_00.jpeg",
+"dataset_name": "Default",
+"width": 833,
+"height": 2227,
+"image_status": "DONE",
+"tags": [
+"left_justify",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"left_justify",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "59ddcaf3-7407-4d70-a3fa-2d1740f6cf0e",
+"image_name": "048_000_00.jpeg",
+"dataset_name": "Default",
+"width": 759,
+"height": 2162,
+"image_status": "DONE",
+"tags": [
+"left_justify",
+"nikud",
+"short_descender"
+],
+"tag_groups": {
+"Default": [
+"left_justify",
+"nikud",
+"short_descender"
+]
+},
+"labels": []
+}, {
+"image_id": "a9ca5581-a85e-4b90-b076-de8174edfbd1",
+"image_name": "049_000_00.jpeg",
+"dataset_name": "Default",
+"width": 431,
+"height": 2207,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "86d38992-51bf-4ada-8969-7f6c4eb64648",
+"image_name": "050_000_00.jpeg",
+"dataset_name": "Default",
+"width": 671,
+"height": 1906,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"nesting",
+"nikud",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"nesting",
+"nikud",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "b2c7f5cf-ad7d-40e8-b8b3-1792b2104395",
+"image_name": "051_000_00.jpeg",
+"dataset_name": "Default",
+"width": 627,
+"height": 1801,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"nesting",
+"nikud",
+"shading",
+"short_descender",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"nesting",
+"nikud",
+"shading",
+"short_descender",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "ca9b102c-1cf2-4c71-84f7-5ddc986d952c",
+"image_name": "052_000_00.jpeg",
+"dataset_name": "Default",
+"width": 808,
+"height": 2248,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_slanted",
+"nikud",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_slanted",
+"nikud",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "b6ea9275-0fd2-45c1-bd13-00ca8d6b5153",
+"image_name": "053_000_00.jpeg",
+"dataset_name": "Default",
+"width": 885,
+"height": 2072,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "e6b7532c-acc0-4e4c-a68d-f853dd5e03be",
+"image_name": "054_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1497,
+"height": 1928,
+"image_status": "DONE",
+"tags": [
+"left_justify",
+"left_slanted",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"left_justify",
+"left_slanted",
+"nikud",
+"shading",
+"short_descender",
+"string",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "d057bb2c-77a7-4ae0-a08c-eb4ed76607ac",
+"image_name": "055_000_00.jpeg",
+"dataset_name": "Default",
+"width": 728,
+"height": 2519,
+"image_status": "DONE",
+"tags": [
+"left_justify",
+"short_descender"
+],
+"tag_groups": {
+"Default": [
+"left_justify",
+"short_descender"
+]
+},
+"labels": []
+}, {
+"image_id": "60279299-5a36-40a5-b9bb-2e891a66c421",
+"image_name": "056_000_00.jpeg",
+"dataset_name": "Default",
+"width": 1265,
+"height": 1893,
+"image_status": "DONE",
+"tags": [
+"nesting",
+"short_descender",
+"vertical_stretch"
+],
+"tag_groups": {
+"Default": [
+"nesting",
+"short_descender",
+"vertical_stretch"
+]
+},
+"labels": []
+}, {
+"image_id": "6aceb65c-095f-40ed-a724-80bbc0f45e10",
+"image_name": "057_000_00.jpeg",
+"dataset_name": "Default",
+"width": 859,
+"height": 1734,
+"image_status": "DONE",
+"tags": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string"
+],
+"tag_groups": {
+"Default": [
+"fish_tail",
+"left_justify",
+"nikud",
+"shading",
+"short_descender",
+"string"
+]
+},
+"labels": []
+}, {
+"image_id": "c15450b4-2767-4ac2-bc6a-7bfc2a64da62",
+"image_name": "058_000_00.jpeg",
+"dataset_name": "Default",
+"width": 527,
+"height": 2292,
+"image_status": "DONE",
+"tags": [
+"bited_aleph",
+"left_justify",
+"nesting",
+"nikud",
+"string"
+],
+"tag_groups": {
+"Default": [
+"bited_aleph",
+"left_justify",
+"nesting",
+"nikud",
+"string"
+]
+},
+"labels": []
+}], "attributes": []}
